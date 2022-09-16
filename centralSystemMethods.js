@@ -743,6 +743,10 @@ res.send(result);
 });
 })
 
+router.get('/main', (req, res, next) => {
+    res.send('Salam');
+})
+
 ///////////////////////////////////////////// 1.5 ROUTES //////////////////////////////////////////////////////////////////////////////////
 
 router.post('/bootnotification15',(req, res, next) => {
