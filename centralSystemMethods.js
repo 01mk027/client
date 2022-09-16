@@ -529,9 +529,9 @@ process.exit(0);
 });
 
 
-let cmsIpNPort = 'http://54.175.129.81:8000/';
+let cmsIpNPort = 'http://54.237.159.122:8000/';
 
-let ownIp = 'http://52.207.252.196:8001/';
+let ownIp = 'http://3.92.207.149:8001/';
 
 
 
